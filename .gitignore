@@ -1,3 +1,5 @@
+# Created by GitHub
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -97,3 +99,17 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# End of GitHub
+
+# locals
+*config.ini
+banner-sections.NewCourseSection_subscribing_Tweet.py
+startTweetNewCourseSection.sh
+TweetNewCourseSection_KILL.sh
+notes.txt
+old.*
+NewCourseSection_subscribing_Tweet.py
+Banner.EthosTweeter.py
+docs/NewCourseSection_subscribing_TweetDocumentation.docx
+Colleague.EthosTweeter.py
